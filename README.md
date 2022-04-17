@@ -24,5 +24,4 @@ ork -- Choose C --> orkc(Ork Kamlang Kay C)
 orka ---> endgame
 orkb ---> endgame
 orkc ---> endgame
-orkc ---> YEET
 ```
