@@ -1,5 +1,7 @@
 # ISS-Project
 
+[Figma Mockup Design](https://www.figma.com/file/naEJtMEKg3ZsUoGjgdbYcC/ISS?node-id=0%3A1)
+
 ``` mermaid
 flowchart TB
 endgame(End Game)
