@@ -3,18 +3,18 @@
 ``` mermaid
 flowchart TB
 endgame(End Game)
-startgame(Start Game) ---> gin(Gin)
+startgame(Start Game) ---> gin(1 Gin)
 gin-- choose A --> gina(eat A)
 gin-- choose B --> ginb(eat B)
 gin-- choose C --> ginc(eat C)
-todlong(Tod Long)
+todlong(2 Tod Long)
 gina ---> todlong
 ginb ---> todlong
 ginc ---> todlong
 todlong -- choose A --> toda(Experiment A)
 todlong -- choose B --> todb(Experiment B)
 todlong -- choose C --> todc(Experiment C)
-ork(Ork Kamlang Kay)
+ork(3 Ork Kamlang Kay)
 toda ---> ork
 todb ---> ork
 todc ---> ork
