@@ -1,5 +1,40 @@
 # ISS-Project
 
+# game design document
+
+## Introduction
+- Game Concept เป็นเกมPuzzle ที่เล่าเรื่องราวผ่านตัวละครเป็นมุมมองบุคคลที่1
+- หมวดหมู่เกม Puzzle
+- เนื้อเรื่อง 
+- บรรยายกาศของเกม จะเป็นธีมอวกาศ
+
+## Game Structure
+- โหมดเกมที่ผู้เล่นสามารถเล่นได้ โหมดเนื้อเรื่องเท่านั้น
+- Engagement เราผ่าน website
+- การเล่น เป็นเกมเล่นคนเดียว
+- วิธีการเล่น point and click แก้ Puzzle
+
+## Graphics & Sound
+- มุมมองของเกม เป็นบุคคลที่ 1
+- สไตล์กราฟฟิก เป็นกราฟฟิกภาพวาด
+- Animation อาจมีเล็กน้อย เช่นเดินทางเปลี่ยนโซน
+- Music ถ้าใส่มาได้ก็จะมี
+## Platform
+- PC
+
+## Development System
+- VScode
+
+## Game play
+- Character 
+- Story 
+- Objective 
+- Core Game Mechanic 
+- Level Design map 
+- Progression 
+- Game Flow 
+- UI Flow
+
 [Figma Mockup Design](https://www.figma.com/file/naEJtMEKg3ZsUoGjgdbYcC/ISS?node-id=0%3A1)
 
 ``` mermaid
