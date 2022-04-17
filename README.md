@@ -20,7 +20,7 @@
 - Animation อาจมีเล็กน้อย เช่นเดินทางเปลี่ยนโซน
 - Music ถ้าใส่มาได้ก็จะมี
 ## Platform
-- PC
+- website
 
 ## Development System
 - VScode
