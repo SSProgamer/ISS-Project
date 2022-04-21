@@ -59,6 +59,21 @@
     - หยอดสารเคมี water jug puzzle
     - รถน้ำต้นไม้ 1.ต่อท่อน้ำให้ถึงจุดหมาย 2.เข็มฉีดน้ำให้โดนถูกจุด
 
+# GAME THEORY
+- Self-interested Agent
+    - Player
+    - Non-Player Character
+- Type
+    - Zero-sum
+    - Non-zero-sum
+- Form
+    - Normal
+    - Extensive
+- Actions
+    - Rules
+- Payoffs
+- Strategy
+
 [Figma Mockup Design](https://www.figma.com/file/naEJtMEKg3ZsUoGjgdbYcC/ISS?node-id=0%3A1)
 
 ```mermaid
