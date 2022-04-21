@@ -74,6 +74,24 @@
 - Payoffs
 - Strategy
 
+## Food 
+
+### breakfast
+
+- ไข่สุกสำเร็จรูป
+- เนื้อสุก
+- ส้ม
+
+### lunch
+
+- Tortillas
+- Chocolate pudding
+
+### dinner
+
+- อาหารกระป๋อง
+- น้ำผลไม้
+
 [Figma Mockup Design](https://www.figma.com/file/naEJtMEKg3ZsUoGjgdbYcC/ISS?node-id=0%3A1)
 
 ```mermaid
@@ -101,3 +119,4 @@ orka ---> endgame
 orkb ---> endgame
 orkc ---> endgame
 ```
+
